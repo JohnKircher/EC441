@@ -1,0 +1,57 @@
+ping.online.net France
+
+[  4]   0.00-3.00   sec  57.6 MBytes   161 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  65.3 MBytes   183 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   843 KBytes  2.30 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  59.6 MBytes   166 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  72.0 MBytes   201 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  72.4 MBytes   202 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  67.8 MBytes   190 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  58.4 MBytes   163 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  44.5 MBytes   124 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  32.2 MBytes  90.2 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  44.7 MBytes   125 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  67.4 MBytes   189 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  68.9 MBytes   193 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  26.2 MBytes  73.3 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  8.75 MBytes  24.5 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  64.0 MBytes   179 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  33.8 MBytes  94.6 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  65.9 MBytes   184 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  68.5 MBytes   192 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   813 KBytes  2.22 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  67.0 MBytes   187 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  75.1 MBytes   210 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  80.7 MBytes   226 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  77.5 MBytes   217 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  67.6 MBytes   189 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  73.2 MBytes   205 Mbits/sec                  receiver
+
+
+iperf.biznetnetworks.com Indonesia
+
+[  4]   0.00-3.00   sec  3.49 MBytes  9.77 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   962 KBytes  2.63 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   962 KBytes  2.63 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  3.03 MBytes  8.47 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  4.26 MBytes  11.9 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   567 KBytes  1.55 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   682 KBytes  1.86 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   423 KBytes  1.16 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.64 MBytes  4.58 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.32 MBytes  3.70 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   884 KBytes  2.41 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  2.36 MBytes  6.59 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   175 KBytes   479 Kbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.63 MBytes  4.55 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   683 KBytes  1.86 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.63 MBytes  4.55 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   663 KBytes  1.81 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   553 KBytes  1.51 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   642 KBytes  1.75 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.38 MBytes  3.85 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  4.43 MBytes  12.4 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1.58 MBytes  4.41 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  1014 KBytes  2.77 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec   904 KBytes  2.47 Mbits/sec                  receiver
+[  4]   0.00-3.00   sec  4.18 MBytes  11.7 Mbits/sec                  receiver
